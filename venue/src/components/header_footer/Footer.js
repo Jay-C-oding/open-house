@@ -5,10 +5,10 @@ const Footer = () => {
   return (
     <footer className='blk_red'>
       <Fade delay={200}>
-        <div className='footer_logo_venue font_righteous'>The venue</div>
-        <div className='footer_copyright'>
-          The venue 2021 all rights reserved
+        <div className='footer_logo_venue font_righteous'>
+          Connox Open-House
         </div>
+        <div className='footer_copyright'>all rights not really reserved</div>
       </Fade>
     </footer>
   );

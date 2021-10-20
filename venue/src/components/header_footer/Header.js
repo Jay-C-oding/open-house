@@ -33,8 +33,8 @@ const Header = () => {
     >
       <Toolbar>
         <div className='header_logo'>
-          <div className='header_logo_venue font_righteous'>The venue</div>
-          <div className='header_logo_title'>Musical Events</div>
+          <div className='header_logo_venue font_righteous'>OPEN HOUSE</div>
+          <div className='header_logo_title'>hosted by Connox</div>
         </div>
         <MenuIcon />
         <IconButton
